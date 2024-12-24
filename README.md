@@ -73,7 +73,3 @@ Telegram: https://t.me/earthzeta
     <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
-
-Thank you for using the Moonshot Volume Bot.
-
-Have fun!
